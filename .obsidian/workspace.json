@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome!!.md",
+                "file": "옵시디언이랑 git이랑 연결하기!!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome!!.md",
+                "file": "옵시디언이랑 git이랑 연결하기!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome!!.md",
+                "file": "옵시디언이랑 git이랑 연결하기!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome!!.md"
+                "file": "옵시디언이랑 git이랑 연결하기!!.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,8 @@
   },
   "active": "75ecd9522b7003bb",
   "lastOpenFiles": [
-    "Welcome!!.md",
+    "Pasted image 20240212000834.png",
+    "옵시디언이랑 git이랑 연결하기!!.md",
     "create a link.md",
     "Welcome.md"
   ]
