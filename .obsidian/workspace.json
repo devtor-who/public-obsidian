@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언이랑 git이랑 연결하기!!.md",
+                "file": "This is Obsidian/옵시디언이랑 git이랑 연결하기!!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7691f22a60b9226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is Git/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언이랑 git이랑 연결하기!!.md",
+                "file": "This is Git/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언이랑 git이랑 연결하기!!.md",
+                "file": "This is Git/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언이랑 git이랑 연결하기!!.md"
+                "file": "This is Git/무제 파일.md"
               }
             }
           }
@@ -149,8 +162,11 @@
   },
   "active": "75ecd9522b7003bb",
   "lastOpenFiles": [
+    "This is Obsidian",
+    "This is Obsidian/옵시디언이랑 git이랑 연결하기!!.md",
+    "This is Git/무제 파일.md",
+    "This is Git",
     "Pasted image 20240212000834.png",
-    "옵시디언이랑 git이랑 연결하기!!.md",
     "create a link.md",
     "Welcome.md"
   ]
