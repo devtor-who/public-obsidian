@@ -11,8 +11,12 @@
             "id": "25412b94d7b4fee8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "개발지식/ReactiveX/Rxjs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This is Obsidian/옵시디언이랑 git이랑 연결하기!!.md",
+                "file": "개발지식/ReactiveX/Rxjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "This is Obsidian/옵시디언이랑 git이랑 연결하기!!.md",
+                "file": "개발지식/ReactiveX/Rxjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "This is Obsidian/옵시디언이랑 git이랑 연결하기!!.md"
+                "file": "개발지식/ReactiveX/Rxjs.md"
               }
             }
           }
@@ -143,16 +147,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "75ecd9522b7003bb",
+  "active": "25412b94d7b4fee8",
   "lastOpenFiles": [
-    "개발지식/반응형 프로그래밍/ReactiveX",
+    "무제 파일.md",
+    "개발지식/ReactiveX/Rxjs.md",
+    "개발지식/ReactiveX",
     "무제 폴더",
     "개발지식/반응형 프로그래밍",
     "개발지식",
     "files/Pasted image 20240212002849.png",
     "This is Git/Git 초기화.md",
     "This is Obsidian/옵시디언이랑 git이랑 연결하기!!.md",
-    "무제 파일.md",
     "This is Git/Git 레포지토리 만들기.md",
     "files/Pasted image 20240212002044.png",
     "files",
