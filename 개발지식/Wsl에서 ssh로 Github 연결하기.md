@@ -7,3 +7,11 @@
 ###### ED25519
 `ssh-keygen -t ed25519 -C "Your EMAIL"`
 
+키 생성 경로
+-  RSA
+	`/home/USERNAME/.ssh/id_rsa`
+	`/home/USERNAME/.ssh/id_rsa.pub`
+- ED25519
+	`/home/USERNAME/.ssh/id_ed25519`
+	`/home/USERNAME/.ssh/id_ed25519.pub`
+
