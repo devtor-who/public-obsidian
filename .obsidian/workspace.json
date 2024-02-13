@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발지식/Wsl에서 ssh로 Github 연결하기.md",
+                "file": "개발지식/Wsl에서 ssh key 생성하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발지식/Wsl에서 ssh로 Github 연결하기.md",
+                "file": "개발지식/Wsl에서 ssh key 생성하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발지식/Wsl에서 ssh로 Github 연결하기.md",
+                "file": "개발지식/Wsl에서 ssh key 생성하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발지식/Wsl에서 ssh로 Github 연결하기.md"
+                "file": "개발지식/Wsl에서 ssh key 생성하기.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "30040afc2ea4819c",
   "lastOpenFiles": [
     "무제 파일.md",
-    "개발지식/Wsl에서 ssh로 Github 연결하기.md",
+    "개발지식/Wsl에서 ssh key 생성하기.md",
     "개발지식/ReactiveX/Rxjs.md",
     "개발지식/ReactiveX",
     "무제 폴더",

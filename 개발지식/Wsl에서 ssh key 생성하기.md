@@ -9,9 +9,9 @@
 
 키 생성 경로
 -  RSA
-	`/home/USERNAME/.ssh/id_rsa`
-	`/home/USERNAME/.ssh/id_rsa.pub`
+	`~/.ssh/id_rsa`
+	`~/.ssh/id_rsa.pub`
 - ED25519
-	`/home/USERNAME/.ssh/id_ed25519`
-	`/home/USERNAME/.ssh/id_ed25519.pub`
+	`~/.ssh/id_ed25519`
+	`~/.ssh/id_ed25519.pub`
 
